@@ -125,10 +125,10 @@ audio {
   img{
     width: 45px;
     height: 45px;
-    opacity: .6;
+    opacity: .7;
   }
   audio {
     width: 150px;
-    opacity: 0.6;
+    opacity: 0.9;
   }
 }
