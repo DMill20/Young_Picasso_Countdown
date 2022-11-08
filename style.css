@@ -48,8 +48,8 @@ h2 {
   padding: 16px;
   text-align: center;
   border-radius: .5rem;
-  background: pink;
-  color: rgba(277,11,92,0.93);
+  background: rgba(277,11,92,0.73);
+  color: pink;
   opacity: .6;
 }
 h2 span{
