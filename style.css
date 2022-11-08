@@ -80,9 +80,11 @@ audio {
 
 @media only screen and (max-width: 720px) {
   .container {
+    display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 500px;
+    height: 550px;
     width: 250px;
     text-align: center;
     padding: 8px;
