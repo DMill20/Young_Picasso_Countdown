@@ -73,6 +73,10 @@ h4 {
   opacity: .7;
 }
 
+img{
+  opacity: .7;
+}
+
 audio {
   filter: sepia(50%) saturate(70%) grayscale(5) contrast(99%) invert(12%);
   opacity: .6;
