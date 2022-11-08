@@ -91,6 +91,7 @@ audio {
   h1 {
     font-size: 1.7rem;
     text-align: center;
+    font-weight: 700;
   }
   h2 {
     font-size: 2rem;
@@ -103,6 +104,6 @@ audio {
   }
   audio {
     width: 200px;
-    opacity: 0.6;
+    opacity: 0.7;
   }
 }
