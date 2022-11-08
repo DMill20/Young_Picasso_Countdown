@@ -100,13 +100,13 @@ audio {
     background: transparent;
   }
   h2 {
-    font-size:  1rem;
+    font-size:  2rem;
     text-align: center;
     font-weight: 700;
     color: pink;
   }
   h3 {
-    font-size: .5rem;
+    font-size: 1.5rem;
     text-align: center;
     color: pink;
   }
