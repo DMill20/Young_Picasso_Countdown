@@ -91,16 +91,16 @@ audio {
     box-shadow: 5px 5px 5px 5px black;
   }
   h1 {
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-align: center;
     font-weight: 700;
     width: 200px;
-    color: rgba(277, 11, 92, 0.93);
+    color: rgba(277, 11, 92, 0.99);
     opacity. 4;
     background: transparent;
   }
   h2 {
-    font-size: 1.5rem;
+    font-size: 1rem;
     text-align: center;
     font-weight: 700;
     color: pink;
