@@ -95,8 +95,9 @@ audio {
     text-align: center;
     font-weight: 700;
     width: 250px;
-    color: #ffffff;
-    background: transparent;
+    background: #001;
+    color: rgba(277, 11, 92, 0.93);
+    opacity. 6;
   }
   h2 {
     font-size: 2rem;
