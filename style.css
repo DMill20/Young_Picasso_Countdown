@@ -112,7 +112,7 @@ audio {
     text-align: center;
     color: rgba(277, 11, 92, 0.93);
     word-spacing: 2px;
-    background: black;
+    border: 2px solid pink;
     border-radius: .5rem;
     padding: 8px;
     opacity.6;
