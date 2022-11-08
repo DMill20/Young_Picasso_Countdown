@@ -93,7 +93,6 @@ audio {
     font-size: 2.5rem;
     text-align: center;
     font-weight: 600;
-    width: 250px;
     color: pink;
     opacity. 4;
     background: transparent;
@@ -101,7 +100,6 @@ audio {
   }
   h2 {
     font-size:  2rem;
-    width: 350px;
     text-align: center;
     font-weight: 900;
     color: pink;
