@@ -51,8 +51,8 @@ h2 {
   font-weight: 600;
   padding: 16px;
   text-align: center;
-  border-radius: 0.5rem;
-  background-color: pink;
+  background: black;
+  border-radius: .5rem;
   color: rgba(277,11,92,0.93);
 }
 h2 span{
