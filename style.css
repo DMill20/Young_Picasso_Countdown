@@ -98,6 +98,7 @@ audio {
     color: pink;
     opacity. 4;
     background: transparent;
+    word spacing: 2px;
   }
   h2 {
     font-size:  2rem;
@@ -105,11 +106,17 @@ audio {
     text-align: center;
     font-weight: 900;
     color: pink;
+    word spacing: 2px;
   }
   h3 {
     font-size: .5rem;
     text-align: center;
     color: pink;
+    word-spacing: 2px;
+  }
+  h4{
+    font-size: .5rem;
+    text-align: center;
   }
   img{
     width: 50px;
@@ -118,6 +125,6 @@ audio {
   }
   audio {
     width: 150px;
-    opacity: 0.9;
+    opacity: 0.6;
   }
 }
