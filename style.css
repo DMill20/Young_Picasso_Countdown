@@ -82,14 +82,13 @@ audio {
   .container {
     justify-content: center;
     align-items: center;
-    height: 300px;
-    width: 400px;
+    height: 400px;
+    width: 250px;
     text-align: center;
     padding: 8px;
   }
   h1 {
-    font-size: 2rem;
-    padding: 8px;
+    font-size: 1.5rem;
     text-align: center;
   }
   h2 {
