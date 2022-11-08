@@ -83,15 +83,15 @@ audio {
     justify-content: center;
     align-items: center;
     height: 400px;
-    width: 300px;
+    width: 150px;
     text-align: center;
   }
   h1 {
-    font-size: 27px;
+    font-size: 16px;
     padding: 8px;
+    text-align: center;
   }
   audio {
     width: 200px;
   }
 }
-
