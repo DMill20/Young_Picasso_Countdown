@@ -98,20 +98,22 @@ audio {
     color: rgba(277, 11, 92, 0.93);
     opacity. 4;
     background: transparent;
-    box-shadow: 5px 5px 5px 5px pink;
   }
   h2 {
-    font-size: .2rem;
+    font-size: .4rem;
     text-align: center;
     font-weight: 700;
+    color: pink;
   }
   h3 {
-    font-size: .2rem;
+    font-size: .4rem;
     text-align: center;
+    color: pink;
   }
   img{
     width: 50px;
     height: 50px;
+    opacity: .6;
   }
   audio {
     width: 150px;
