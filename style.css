@@ -92,8 +92,8 @@ audio {
     width: 300px;
     text-align: center;
     padding: 8px;
-    background: linear-gradient(rgba(277,11,92,.93), rgba(277,11,92,.73);
-    opacity: .5;
+    background: linear-gradient(rgba(277,11,92,.93), rgba(277,11,92,.83);
+    opacity: .6;
   }
   h1 {
     font-size: 1.5rem;
