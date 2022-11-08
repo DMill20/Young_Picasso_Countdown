@@ -27,7 +27,7 @@ body {
   background-repeat: no-repeat;
   border-radius: 0.5rem;
   opacity: 0.7;
-  box-shadow: 1px 1px 1px 1px black;
+  box-shadow: 1px 1px 1px 1px rgba(277,11,92,0.93);
 }
 h1 {
   font-size: 2rem;
