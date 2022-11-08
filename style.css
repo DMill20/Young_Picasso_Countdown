@@ -21,7 +21,7 @@ body {
   height: 500px;
   width: 500px;
   background: linear-gradient(rgba(277, 11, 92, 0.73), rgba(0, 0, 0, 0.7)),
-    url("painting.png");
+    url("painting.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
