@@ -55,10 +55,8 @@ h2 {
   text-align: center;
   border-radius: 0.5rem;
 }
-h2 span {
-  color: pink;
-}
-
+h2 span{
+  color: rgna(277,11,92,0.93);
 h3 {
   font-size: 1.5rem;
   color: rgba(277, 11, 92, 0.93);
