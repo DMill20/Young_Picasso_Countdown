@@ -20,8 +20,8 @@ body {
   justify-content: center;
   height: 500px;
   width: 500px;
-  background: linear-gradient(rgba(277, 11, 92, 0.73), rgba(0,0,0,0.8)),
-    url("flowers.jpg");
+  background: linear-gradient(rgba(277, 11, 92, 0.73), rgba(0,0,0,0.7)),
+    url("flowers.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
