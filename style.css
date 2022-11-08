@@ -90,13 +90,13 @@ audio {
     text-align: center;
     padding: 8px;
     background: linear-gradient(rgba(277,11,92,.93),rgba(277,11,92,.83));
-    opacity: .4;
+    opacity: .5;
   }
   h1 {
     font-size: 1.5rem;
     text-align: center;
     font-weight: 600;
-    color: white;
+    color: pink;
     opacity. 4;
     background: transparent;
     word spacing: 2px;
@@ -106,7 +106,7 @@ audio {
     font-size:  2rem;
     text-align: center;
     font-weight: 900;
-    color: white;
+    color: pink;
     word spacing: 2px;
     background-color: none;
   }
