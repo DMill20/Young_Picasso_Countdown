@@ -91,7 +91,7 @@ audio {
     box-shadow: 2px 2px 2px 2px black;
   }
   h1 {
-    font-size: .8rem;
+    font-size: 1.5rem;
     text-align: center;
     font-weight: 600;
     width: 250px;
@@ -100,13 +100,13 @@ audio {
     background: transparent;
   }
   h2 {
-    font-size:  2rem;
+    font-size:  1.5rem;
     text-align: center;
     font-weight: 700;
     color: pink;
   }
   h3 {
-    font-size: 1.5rem;
+    font-size: .5rem;
     text-align: center;
     color: pink;
   }
