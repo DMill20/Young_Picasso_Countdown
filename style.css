@@ -47,7 +47,6 @@ h1 span {
 }
 
 h2 {
-  color: rgba(277,11,92,0.93);
   font-size: 2rem;
   font-weight: 600;
   padding: 16px;
@@ -77,6 +76,7 @@ h4 {
 
 audio {
   filter: sepia(50%) saturate(70%) grayscale(5) contrast(99%) invert(12%);
+  opacity: .6;
 }
 
 @media only screen and (max-width: 720px) {
