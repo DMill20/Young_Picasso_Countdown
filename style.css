@@ -92,7 +92,7 @@ audio {
     width: 300px;
     text-align: center;
     padding: 8px;
-    background: linear-gradient(rgba(277,11,92,.93);
+    background: linear-gradient(rgba(277,11,92,.93), rgba(277,11,92,.73);
     opacity: .5;
   }
   h1 {
