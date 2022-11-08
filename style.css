@@ -91,21 +91,22 @@ audio {
     box-shadow: 5px 5px 5px 5px black;
   }
   h1 {
-    font-size: 1.2rem;
+    font-size: 1rem;
     text-align: center;
     font-weight: 700;
     width: 200px;
     color: rgba(277, 11, 92, 0.93);
     opacity. 4;
+    background: transparent;
     box-shadow: 5px 5px 5px 5px pink;
   }
   h2 {
-    font-size: 1.2rem;
+    font-size: .2rem;
     text-align: center;
     font-weight: 700;
   }
   h3 {
-    font-size: .6rem;
+    font-size: .2rem;
     text-align: center;
   }
   img{
