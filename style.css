@@ -118,12 +118,12 @@ audio {
     border-radius: .5rem;
     padding: 8px;
     opacity.5;
-    color: rgba(277, 11, 92, 0.93);
+    color: pink;
   }
   h4{
     font-size: 1rem;
     text-align: center;
-    color: rgba(277, 11, 92, 0.93);
+    color: pink;
   }
   img{
     width: 45px;
