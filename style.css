@@ -110,13 +110,13 @@ audio {
   h3 {
     font-size: 1.5rem;
     text-align: center;
-    color: pink;
+    color: rgba(277, 11, 92, 0.93);
     word-spacing: 2px;
   }
   h4{
     font-size: 1.5rem;
     text-align: center;
-    color: pink;
+    color: rgba(277, 11, 92, 0.93);
   }
   img{
     width: 50px;
