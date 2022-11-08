@@ -112,13 +112,12 @@ audio {
     text-align: center;
     color: rgba(277, 11, 92, 0.93);
     word-spacing: 2px;
-    background: pink;
+    background: black;
   }
   h4{
     font-size: 1rem;
     text-align: center;
     color: rgba(277, 11, 92, 0.93);
-    background: pink;
   }
   img{
     width: 50px;
