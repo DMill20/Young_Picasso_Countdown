@@ -20,7 +20,7 @@ body {
   justify-content: center;
   height: 500px;
   width: 500px;
-  background: linear-gradient(rgba(277, 11, 92, 0.73), rgba(211,211,211,.5)),
+  background: linear-gradient(rgba(277, 11, 92, 0.73), rgba(211,211,211,.7)),
     url("jar.png");
   background-size: cover;
   background-position: center;
@@ -92,7 +92,7 @@ audio {
     width: 300px;
     text-align: center;
     padding: 8px;
-    background: linear-gradient(rgba(277,11,92,.93),rgba(0,0,0,0.8));
+    background: linear-gradient(rgba(277,11,92,.93);
     opacity: .5;
   }
   h1 {
