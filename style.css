@@ -88,7 +88,7 @@ audio {
     width: 250px;
     text-align: center;
     padding: 8px;
-    box-shadow: 10px 5px 5px 5px black;
+    box-shadow: 5px 5px 5px 5px black;
   }
   h1 {
     font-size: 1.5rem;
@@ -100,7 +100,7 @@ audio {
     border: solid 2px #001;
   }
   h2 {
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-align: center;
     font-weight: 700;
   }
