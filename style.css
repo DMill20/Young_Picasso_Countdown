@@ -51,7 +51,7 @@ h2 {
   font-weight: 600;
   padding: 16px;
   text-align: center;
-  background: black;
+  background: pink;
   border-radius: .5rem;
   color: rgba(277,11,92,0.93);
 }
@@ -115,6 +115,7 @@ audio {
     background: black;
     border-radius: .5rem;
     padding: 8px;
+    opacity.6;
   }
   h4{
     font-size: 1rem;
