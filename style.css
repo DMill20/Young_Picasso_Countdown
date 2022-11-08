@@ -95,12 +95,12 @@ audio {
     text-align: center;
     font-weight: 600;
     width: 250px;
-    color: rgba(277, 11, 92, 0.99);
+    color: pink;
     opacity. 4;
     background: transparent;
   }
   h2 {
-    font-size:  1.5rem;
+    font-size:  1.2rem;
     text-align: center;
     font-weight: 700;
     color: pink;
