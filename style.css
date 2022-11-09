@@ -20,7 +20,7 @@ body {
   justify-content: center;
   height: 500px;
   width: 500px;
-  background: linear-gradient(rgba(277, 11, 92, 0.73), rgba(0,0,0,0.7),
+  background: linear-gradient(rgba(277, 11, 92, 0.73),rgba(0,0,0,0.7)),
     url("flowers.png");
   background-size: cover;
   background-position: center;
