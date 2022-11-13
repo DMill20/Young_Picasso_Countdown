@@ -173,6 +173,7 @@
       color: #fff;
       opacity: 6;
       word-spacing: 2px;
+      opacity: .6;
       
     }
     h2 {
@@ -183,6 +184,7 @@
       word-spacing: 2px;
       padding: 8px;
       border-radius: .5rem;
+      opacity: .6;
     }
     h3 {
       font-size: 1rem;
@@ -192,11 +194,13 @@
       padding: 8px;
       opacity: 5;
       color: #fff;
+      opacity: .6;
     }
     h4{
       font-size: 1rem;
       text-align: center;
       color: #fff;
+      opacity: .6;
     }
     img{
       width: 100px;
