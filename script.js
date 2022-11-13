@@ -1,4 +1,43 @@
-var countDownDate = new Date("Nov 18, 2022 15:37:25").getTime();
+function getRandomInt(min, max) {
+    return Math.floor(Math.random() * (max - min)) + min;
+  }
+  
+  function particleInit() {
+    var generator = document.getElementById("particleGenerator");
+    var particleCount = 200;
+    for (var i = 0; i < particleCount; i++) {
+      var size = getRandomInt(2, 6);
+      var n =
+        '<div class="particle" style="top:' +
+        getRandomInt(15, 95) +
+        "%; left:" +
+        getRandomInt(5, 95) +
+        "%; width:" +
+        size +
+        "px; height:" +
+        size +
+        "px; animation-delay:" +
+        getRandomInt(0, 30) / 10 +
+        "s; background-color:rgba(" +
+        getRandomInt(80, 160) +
+        "," +
+        getRandomInt(185, 255) +
+        "," +
+        getRandomInt(160, 255) +
+        "," +
+        getRandomInt(2, 8) / 10 +
+        ');"></div>';
+      console.log("Particle " + i + ": " + n);
+      var node = document.createElement("div");
+      node.innerHTML = n;
+      generator.appendChild(node);
+    }
+  }
+  
+  particleInit();
+ 
+
+var countDownDate = new Date("Nov 18, 2022 00:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function () {
@@ -24,3 +63,4 @@ var x = setInterval(function () {
     document.getElementById("demo").innerHTML = "EXPIRED";
   }
 }, 1000);
+ 
