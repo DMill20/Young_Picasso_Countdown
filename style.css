@@ -41,8 +41,8 @@
   }
   
   #background {
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
-      url("images/headset.png");  
+    background: linear-gradient(rgba(125, 18, 255, 0.8), rgba(125, 18, 255, 0.8)),
+      url("images/headset.png");    
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -60,8 +60,8 @@
   .container {
     width: 800px;
     height: 500px;
-    background: linear-gradient(rgba(125, 18, 255, 0.8), rgba(125, 18, 255, 0.8)),
-      url("images/headset.png");
+     background: linear-gradient(rgba(125,18,255,.7), rgba(0,0,0,0.5)),
+      url("images/headset.png");  
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
